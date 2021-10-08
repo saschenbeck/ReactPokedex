@@ -5,7 +5,7 @@ import './App.css';
 import Dashboard from './Components/Layout/Dashboard';
 import NavBar from "./Components/Layout/NavBar";
 
-import Pokemon from './components/Pokemon/Pokemon';
+import Pokemon from './Components/Pokemon/Pokemon';
 
 function App() {
     return (
